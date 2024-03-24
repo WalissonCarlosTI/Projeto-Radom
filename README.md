@@ -1,4 +1,4 @@
-<h1>Starbucks Project</h1>
+<h1>Raffle Project</h1>
 <br>
 <br>
 <h2>Projeto desenvolvido para sorteios numericos. <br>
