@@ -13,7 +13,7 @@
 <br>
 
 <h2>
-  <a href="http://127.0.0.1:5500/index.html/"> Link do Projeto </a>
+  <a href="https://walissoncarlosti.github.io/Raffle-Project/"> Link do Projeto </a>
 </h2>
 <br>
 
