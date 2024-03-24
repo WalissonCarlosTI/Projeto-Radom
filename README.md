@@ -17,5 +17,4 @@
 </h2>
 <br>
 
-<img src="![tela](https://github.com/WalissonCarlosTI/Raffle-Project/assets/160198499/085fffd1-f5fb-4758-9add-4b605e230d47)
-">
+<img src="https://1drv.ms/i/s!Ao3WQl1Z6aYeh3e3PifwExpxyBTy?e=V6WzVI">
